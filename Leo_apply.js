@@ -9,6 +9,9 @@ Day_01
 
 
 
+day 2
+create fiverr gig
+
 
 
 
