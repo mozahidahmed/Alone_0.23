@@ -7,10 +7,8 @@ Day_01
 =>Indeed
 =>Monster
 
-
-
 day 2
-create fiverr gig
+create fiverr gig.....
 
 
 
